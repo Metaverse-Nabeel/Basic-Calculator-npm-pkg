@@ -1,2 +1,7 @@
+# Basic Calculator Package
+This repo is for learning TypeScript by making CLI projects using `inquirer` and `chalk` npm packages. This project is a simple calculator that peforms basic Arthimatic Operations and additionally perform modulus.
+
 # learn_typescript
-This repo is for learning TypeScript. CLI projects are made using `inquirer` and `chalk` npm packages. All the projects are made as npm packages and are available on npm website.
+
+#Keywords
+`inquirer`, `chalk`, `calculator`, `basic-calculator`, `arithematic operations`, `modulus operation`
